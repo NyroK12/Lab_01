@@ -6,7 +6,7 @@ namespace Git_Lab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Tree");
         }
     }
 }
