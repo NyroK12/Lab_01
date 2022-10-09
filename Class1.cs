@@ -6,5 +6,6 @@ namespace Git_Lab
 {
     class Class1
     {
+        int x, y;
     }
 }
