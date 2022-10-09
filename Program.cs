@@ -7,6 +7,10 @@ namespace Git_Lab
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Tree");
+            int a;
+
         }
+
     }
+
 }
