@@ -8,6 +8,7 @@ namespace Git_Lab
         {
             Console.WriteLine("Hello Tree");
 <<<<<<< HEAD
+<<<<<<< HEAD
             char a;
             int x = 4;
             int ny = x + 1;
@@ -15,6 +16,9 @@ namespace Git_Lab
 
         
 
+=======
+            int a;
+>>>>>>> fc663ff (a)
 =======
             int a;
 >>>>>>> fc663ff (a)
